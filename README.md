@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wansho&layout=compact&hide=HTML" style="zoom:85%;" />
+
 ### Hi, I am [wansho](https://gitbook.wansho.cn/) 👋
 
 - 🔭 Committed to becoming a full-stack developer
@@ -7,7 +9,7 @@
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wansho&layout=compact&hide=HTML" />
+
 
 
 
