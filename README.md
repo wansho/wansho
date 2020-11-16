@@ -5,5 +5,5 @@
 
 <!--[![Wansho's github stats](https://github-readme-stats.vercel.app/api?username=wansho)](https://github.com/wansho)-->
 
-[![wansho's running records](http://running.wansho.top/renderer)](http://running.wansho.top)
+[![wansho's running records](http://running.wansho.top)](http://running.wansho.top)
 <a href="https://gitbook.wansho.cn/"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wansho&layout=compact&hide=HTML" /></a>
