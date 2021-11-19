@@ -10,9 +10,7 @@
 
 
 
-[![wansho's running records](http://running.wansho.top/renderer)](http://running.wansho.top)<img align="left" src="https://v1.jinrishici.com/all.svg">
-
-
+[![wansho's running records](http://running.wansho.top/renderer)](http://running.wansho.top)
 
 
 
