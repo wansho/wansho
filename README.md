@@ -14,7 +14,3 @@
 
 
 
-<img align="left" src="assets/strava_circular.svg" alt="strava_circular" style="zoom:50%;" />
-
-
-
