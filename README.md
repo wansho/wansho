@@ -10,7 +10,7 @@
 
 
 
-[![wansho's running records](http://running.wansho.top/renderer)](http://running.wansho.top)
+![running](https://github.com/wansho/running/blob/main/running.svg)
 
 
 
